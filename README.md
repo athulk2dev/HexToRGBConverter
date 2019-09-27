@@ -26,6 +26,13 @@ Follow these instructions to run this project locally
     docker-compose up
     ```
     This will take a while to complete the process, please be patient. 
+## ENDPOINTS
+- ```/metrics/ - exposes the api metrics```
+
+- ```/healthcheck/ ```
+
+- ```/convert/ - hex to rgb conversion```
+
 
 ## TESTING
 
